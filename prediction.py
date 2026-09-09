@@ -1,7 +1,8 @@
 import numpy as np
 import pandas as pd
+# protection test verified
 
-# protection test
+
 def predict():
     """Print a simple rain-prediction message."""
     print("ada threshold 0.7")
